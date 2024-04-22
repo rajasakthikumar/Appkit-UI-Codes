@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "desktop-wallpaper-poseidon-x-suit-pubg-mobile-ultra-mobile-cute-mobile-new-phone-blood-raven-x-suit.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "desktop-wallpaper-poseidon-x-suit-pubg-mobile-ultra-mobile-cute-mobile-new-phone-blood-raven-x-suit 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "desktop-wallpaper-poseidon-x-suit-pubg-mobile-ultra-mobile-cute-mobile-new-phone-blood-raven-x-suit 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "man-sitting-desk-unlocking-computer-computer-settings-login-flat-illustration_74855-20645.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "man-sitting-desk-unlocking-computer-computer-settings-login-flat-illustration_74855-20645 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "man-sitting-desk-unlocking-computer-computer-settings-login-flat-illustration_74855-20645 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
